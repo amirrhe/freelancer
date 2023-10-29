@@ -1,0 +1,10 @@
+{
+    "platform": "django",
+    "app": "freelancer",
+    "disks": [
+      {
+        "name": "freelancer-disk",
+        "mountTo": "data"
+      }
+    ]
+  }
